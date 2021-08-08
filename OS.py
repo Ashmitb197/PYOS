@@ -31,7 +31,7 @@ def do_popup(event):
         m.grab_release()
   
 background_label.bind("<Button-3>", do_popup)
-#Yeah hua change
+
 
 
 
